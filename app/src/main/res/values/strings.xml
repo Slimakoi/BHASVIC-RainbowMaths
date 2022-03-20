@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rainbow Maths</string>
+
+    <string name="button_addition">Addition</string>
+    <string name="button_subtraction">Subtraction</string>
+    <string name="button_multiplication">Multiplication</string>
+    <string name="button_division">Division</string>
+    <string name="calculation">Calculation</string>
+    <string name="answer">Answer</string>
+    <string name="button_ok">Next</string>
+    <string name="nickname">Nickname</string>
+    <string name="heart">Heart</string>
+    <string name="image_desc_won">You Won!</string>
+    <string name="image_desc_lost">You Lost!</string>
+    <string name="template">TEMPLATE</string>
+</resources>
